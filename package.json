@@ -10,6 +10,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url": "https://github.com/abeprincec/Minimal-Oceanic-Next",
+    "type": "git"
+  },
   "contributes": {
     "themes": [
       {
