@@ -71,7 +71,7 @@
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#CDD3DE"
       }
     },
     {
@@ -323,7 +323,7 @@
       "name": "Reset JavaScript string interpolation expression",
       "scope": ["meta.template.expression"],
       "settings": {
-        "foreground": "#d4d4d4"
+        "foreground": "#CDD3DE"
       }
     },
     {
@@ -354,9 +354,10 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#d4d4d4"
+        "foreground": "#CDD3DE"
       }
     },
+
     {
       "scope": [
         "keyword.operator.new",
@@ -409,7 +410,7 @@
         "storage.modifier.package.java"
       ],
       "settings": {
-        "foreground": "#d4d4d4"
+        "foreground": "#CDD3DE"
       }
     },
     {
