@@ -1,0 +1,21 @@
+{
+    "name": "minimal-oceanic-next",
+    "displayName": "Minimal Oceanic Next",
+    "description": "Minimal Oceanic Next",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Minimal Oceanic Next",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Minimal Oceanic Next-color-theme.json"
+            }
+        ]
+    }
+}
