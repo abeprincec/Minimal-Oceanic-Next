@@ -13,7 +13,7 @@
     "input.foreground": "#ffffffcc",
     "input.placeholderForeground": "#a5a5a5",
     "inputOption.activeBorder": "#ffffffcc",
-
+    "editorGroupHeader.tabsBorder": "#494c50",
     "scrollbar.shadow": "#010b14",
     "scrollbarSlider.activeBackground": "#383a3f",
     "scrollbarSlider.background": "#383a3f",
@@ -22,7 +22,7 @@
     "badge.foreground": "#ffffff",
     "breadcrumb.foreground": "#a5a5a5",
     "breadcrumb.focusForeground": "#D7DBE1",
-
+    "contrastBorder": "#494c50",
     "activityBar.background": "#202124",
     "activityBar.foreground": "#a5a5a5",
     "activityBar.border": "#494c50",
@@ -35,6 +35,7 @@
     "sideBarSectionHeader.foreground": "#a5a5a5",
     "editorGroup.border": "#494c50",
     // "editorGroup.dropBackground": "#7e57c273",
+    "list.inactiveSelectionBackground": "#44464d",
     "editorGroupHeader.noTabsBackground": "#202124",
     "editorGroupHeader.tabsBackground": "#202124",
     "editorGroupHeader.tabsborder": "#494c50",
