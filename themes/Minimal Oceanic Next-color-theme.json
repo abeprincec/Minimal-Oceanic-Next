@@ -14,10 +14,7 @@
     "input.placeholderForeground": "#a5a5a5",
     "inputOption.activeBorder": "#ffffffcc",
     "editorGroupHeader.tabsBorder": "#494c50",
-    "scrollbar.shadow": "#010b14",
-    "scrollbarSlider.activeBackground": "#383a3f",
-    "scrollbarSlider.background": "#383a3f",
-    "scrollbarSlider.hoverBackground": "#121212",
+
     "badge.background": "#007acc",
     "badge.foreground": "#ffffff",
     "breadcrumb.foreground": "#a5a5a5",
