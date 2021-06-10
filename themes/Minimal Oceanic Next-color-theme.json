@@ -13,13 +13,10 @@
     "input.foreground": "#ffffffcc",
     "input.placeholderForeground": "#a5a5a5",
     "inputOption.activeBorder": "#ffffffcc",
-    "editorGroupHeader.tabsBorder": "#494c50",
 
     "badge.background": "#8AB4F829",
     "badge.foreground": "#8AB4F8",
 
-    "breadcrumb.foreground": "#a5a5a5",
-    "breadcrumb.focusForeground": "#D7DBE1",
     "activityBar.background": "#202124",
     "activityBar.foreground": "#a5a5a5",
     "activityBar.border": "#494c50",
@@ -32,22 +29,21 @@
     "sideBarTitle.foreground": "#a5a5a5",
     "sideBarSectionHeader.background": "#202124",
     "sideBarSectionHeader.foreground": "#a5a5a5",
-    "editorGroup.border": "#494c50",
+
     // "editorGroup.dropBackground": "#7e57c273",
     "list.inactiveSelectionBackground": "#44464d",
     "editorGroupHeader.noTabsBackground": "#202124",
     "editorGroupHeader.tabsBackground": "#202124",
     "tab.activeBackground": "#44464d",
     "tab.activeForeground": "#ececec",
-    "tab.border": "#494c50",
+
     "tab.inactiveBackground": "#202124",
     "tab.inactiveForeground": "#a5a5a5",
     "tab.unfocusedActiveForeground": "#a5a5a5",
     "tab.unfocusedInactiveForeground": "#a5a5a5",
     "editor.background": "#202124",
     "editor.foreground": "#D9D9D9",
-    "editorLineNumber.foreground": "#8A8A8A",
-    "editorLineNumber.activeForeground": "#ececec",
+
     "editorCursor.foreground": "#ececec",
 
     "editor.lineHighlightBackground": "#0003",
@@ -56,7 +52,7 @@
     "editorIndentGuide.activeBackground": "#ececec52",
 
     "panel.background": "#202124",
-    "panel.border": "#494c50",
+
     "panelTitle.activeBorder": "#a5a5a5",
     "panelTitle.activeForeground": "#ffffffcc",
     "panelTitle.inactiveForeground": "#f2f5f980",
@@ -85,7 +81,19 @@
     "editorBracketMatch.background": "#094771",
     "editorBracketMatch.border": "#007fd473",
     "editor.inactiveSelectionBackground": "#3a3d41",
-    "editor.selectionHighlightBackground": "#add6ff26"
+    "editor.selectionHighlightBackground": "#add6ff26",
+
+    "editorGroup.border": "#494c5090",
+    "panel.border": "#494c5090",
+    "tab.border": "#494c5090",
+    "editorGroupHeader.tabsBorder": "#494c5090",
+    "editorLineNumber.foreground": "#494c50",
+    "editorLineNumber.activeForeground": "#b1b1b1",
+    "breadcrumb.foreground": "#808080",
+    "breadcrumb.focusForeground": "#8ab4f890",
+    "tab.hoverBackground": "#323439",
+    "list.hoverBackground": "#323439",
+    "list.inactiveSelectionForeground": "#ececec"
   },
   "tokenColors": [
     {
@@ -623,6 +631,7 @@
     "newOperator": "#9A7ED5",
     "stringLiteral": "#f29766",
     "customLiteral": "#d1c057",
-    "numberLiteral": "#A1F7B5"
+    "numberLiteral": "#A1F7B5",
+    "variable.defaultLibrary": "#35d4c7"
   }
 }
