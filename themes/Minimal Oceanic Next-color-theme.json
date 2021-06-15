@@ -20,8 +20,9 @@
     "activityBar.background": "#202124",
     "activityBar.foreground": "#a5a5a5",
     "activityBar.border": "#494c50",
-    "activityBarBadge.background": "#8AB4F829",
-    "activityBarBadge.foreground": "#8AB4F8",
+    //BUGGY
+    // "activityBarBadge.background": "#8AB4F829",
+    // "activityBarBadge.foreground": "#8AB4F8",
 
     "sideBar.background": "#202124",
     "sideBar.foreground": "#a5a5a5",
@@ -93,7 +94,8 @@
     "breadcrumb.focusForeground": "#8ab4f890",
     "tab.hoverBackground": "#323439",
     "list.hoverBackground": "#323439",
-    "list.inactiveSelectionForeground": "#ececec"
+    "list.inactiveSelectionForeground": "#ececec",
+    "statusBar.debuggingBackground": "#ff0000"
   },
   "tokenColors": [
     {
